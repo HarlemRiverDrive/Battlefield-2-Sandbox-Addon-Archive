@@ -1,2 +1,2 @@
 # Battlefield 2 Sandbox Addon Archive
- An Archive of all battlefield 2 sandbox mod addons
+ An Archive of some battlefield 2 sandbox mod addons
